@@ -1,6 +1,6 @@
 # BDL Publishing Changes Team Exercise:
 
-# Eugenee's & Micah's Short bio
+# Eugenee's, Carlos's & Micah's Short bio
 
 ![Zoomed in on a lap top with code on the screen](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)
 
