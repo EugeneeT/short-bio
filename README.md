@@ -8,7 +8,7 @@
 
 ## 1. Name and age
 
-_Eugen_ ......
+_Eugen_ ...... 35 years old
 
 ## 2. Favourite color
 
