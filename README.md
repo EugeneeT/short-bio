@@ -25,6 +25,12 @@ English because im a native german/russian speaker
 3. Sailing Club NT
 4. Bun Bo by the Bridge
 
+
+
+![A view of tropical waterfalls](https://images.unsplash.com/photo-1459949293702-2ec939154ddb?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80)
+
+# Micah
+
 ## 1. Name and age
 
 > My name is Micah Erol Lyonel Anderson and I am 35 years old.
@@ -52,6 +58,9 @@ When I learn 🇷🇺Russian and 🇮🇱Hebrew I'm sure it will be a mix of all
 6. Sushi 🍣 tuna or salmon sashimi etc anything Japanese.
 7. Thai food or Vietnamese 🥣 (anything with cilantro and lime, lemongrass and some spice) yada yada...
    _I think that's enough._
+
+![Sunset at sunset beach, Pupukea, Hawaii](https://images.unsplash.com/photo-1636353990836-b20b196dd41e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=918&q=80)
+
 
 # Carlos:
 
