@@ -25,11 +25,9 @@ English because im a native german/russian speaker
 3. Sailing Club NT
 4. Bun Bo by the Bridge
 
-# Micah:
-
 ## 1. Name and age
 
-...... _Micah_ Erol Lyonel Anderson ......
+> My name is Micah Erol Lyonel Anderson and I am 35 years old.
 
 ## 2. Favourite color
 
