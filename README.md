@@ -2,7 +2,7 @@
 
 # Eugenee's, Carlos's & Micah's Short bio
 
-![Zoomed in on a lap top with code on the screen](https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80)
+![Zoomed in on a lap top with code on the screen](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4LqQX?ver=fe80&q=90&m=6&h=705&w=1253&b=%23FFFFFFFF&f=jpg&o=f&p=140&aim=true "laptp")
 
 # Eugenee:
 
